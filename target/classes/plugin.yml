@@ -1,0 +1,9 @@
+name: Agustus
+version: 1.0-SNAPSHOT
+main: event.agustus.Main
+api-version: 1.16
+authors: [Mornov]
+description: Event 17 Agustus
+commands:
+  agustus:
+    permission: admin
