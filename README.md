@@ -1,1 +1,3 @@
-"# Event-Agustus-CN" 
+```
+Custom Plugin without any configs.
+```
